@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(166, 243, 220);
+}
+#comment{
+    resize: none;
+}
+.c{
+    width: 50px;
+}
+.captcha{
+    text-align: center;
+}
